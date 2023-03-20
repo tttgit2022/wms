@@ -1,0 +1,12 @@
+[29-Sep-2022 13:00:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tlpkcom'@'localhost' (using password: YES) in /home3/tlpkcom/public_html/royal_wms/dist/includes/dbcon.php on line 2
+[29-Sep-2022 18:00:01 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/tlpkcom/public_html/royal_wms/index.php on line 55
+[29-Sep-2022 18:00:01 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home3/tlpkcom/public_html/royal_wms/index.php on line 55
+[29-Sep-2022 13:00:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tlpkcom'@'localhost' (using password: YES) in /home3/tlpkcom/public_html/royal_wms/dist/includes/dbcon.php on line 2
+[29-Sep-2022 18:00:25 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/tlpkcom/public_html/royal_wms/index.php on line 55
+[29-Sep-2022 18:00:25 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home3/tlpkcom/public_html/royal_wms/index.php on line 55
+[29-Sep-2022 13:03:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tlpkcom'@'localhost' (using password: YES) in /home3/tlpkcom/public_html/royal_wms/dist/includes/dbcon.php on line 2
+[29-Sep-2022 18:03:00 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/tlpkcom/public_html/royal_wms/index.php on line 55
+[29-Sep-2022 18:03:00 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home3/tlpkcom/public_html/royal_wms/index.php on line 55
+[29-Sep-2022 13:03:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tlpkcom'@'localhost' (using password: YES) in /home3/tlpkcom/public_html/royal_wms/dist/includes/dbcon.php on line 2
+[29-Sep-2022 18:03:09 Asia/Karachi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/tlpkcom/public_html/royal_wms/index.php on line 55
+[29-Sep-2022 18:03:09 Asia/Karachi] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home3/tlpkcom/public_html/royal_wms/index.php on line 55

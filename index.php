@@ -1,0 +1,1 @@
+<?php echo "<script>document.location='https://royalwms.tlpk.com/AdminLTE'</script>";  ?>

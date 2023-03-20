@@ -1,0 +1,59 @@
+[05-Oct-2022 07:04:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/tlpkcom/public_html/royal_wms/pages/reports/connection2.inc:2
+Stack trace:
+#0 /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php(80): include()
+#1 {main}
+  thrown in /home3/tlpkcom/public_html/royal_wms/pages/reports/connection2.inc on line 2
+[05-Oct-2022 07:04:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/tlpkcom/public_html/royal_wms/pages/reports/connection2.inc:2
+Stack trace:
+#0 /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php(80): include()
+#1 {main}
+  thrown in /home3/tlpkcom/public_html/royal_wms/pages/reports/connection2.inc on line 2
+[05-Oct-2022 07:07:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home3/tlpkcom/public_html/royal_wms/pages/reports/connection2.inc:2
+Stack trace:
+#0 /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php(80): include()
+#1 {main}
+  thrown in /home3/tlpkcom/public_html/royal_wms/pages/reports/connection2.inc on line 2
+[05-Oct-2022 07:17:11 UTC] PHP Warning:  include(../dist/includes/dbcon.php): failed to open stream: No such file or directory in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 91
+[05-Oct-2022 07:17:11 UTC] PHP Warning:  include(): Failed opening '../dist/includes/dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 91
+[05-Oct-2022 07:17:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 94
+[05-Oct-2022 07:17:11 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 94
+[05-Oct-2022 07:17:32 UTC] PHP Warning:  include(../dist/includes/dbcon.php): failed to open stream: No such file or directory in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 91
+[05-Oct-2022 07:17:32 UTC] PHP Warning:  include(): Failed opening '../dist/includes/dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 91
+[05-Oct-2022 07:17:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 94
+[05-Oct-2022 07:17:32 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 94
+[05-Oct-2022 07:19:21 UTC] PHP Warning:  include(../dist/includes/dbcon.php): failed to open stream: No such file or directory in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:19:21 UTC] PHP Warning:  include(): Failed opening '../dist/includes/dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:19:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:19:21 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:19:41 UTC] PHP Warning:  include(../dist/includes/dbcon.php): failed to open stream: No such file or directory in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:19:41 UTC] PHP Warning:  include(): Failed opening '../dist/includes/dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:19:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:19:41 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:20:54 UTC] PHP Warning:  include(../dist/includes/dbcon.php): failed to open stream: No such file or directory in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:20:54 UTC] PHP Warning:  include(): Failed opening '../dist/includes/dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:20:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:20:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:20:58 UTC] PHP Warning:  include(../dist/includes/dbcon.php): failed to open stream: No such file or directory in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:20:58 UTC] PHP Warning:  include(): Failed opening '../dist/includes/dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:20:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:20:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:21:11 UTC] PHP Warning:  include(../dist/includes/dbcon.php): failed to open stream: No such file or directory in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:21:11 UTC] PHP Warning:  include(): Failed opening '../dist/includes/dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:21:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:21:11 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:21:19 UTC] PHP Warning:  include(../dist/includes/dbcon.php): failed to open stream: No such file or directory in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:21:19 UTC] PHP Warning:  include(): Failed opening '../dist/includes/dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:21:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:21:19 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:21:22 UTC] PHP Warning:  include(../dist/includes/dbcon.php): failed to open stream: No such file or directory in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:21:22 UTC] PHP Warning:  include(): Failed opening '../dist/includes/dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:21:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:21:22 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:21:34 UTC] PHP Warning:  include(../dist/includes/dbcon.php): failed to open stream: No such file or directory in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:21:34 UTC] PHP Warning:  include(): Failed opening '../dist/includes/dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:21:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:21:34 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:21:35 UTC] PHP Warning:  include(../dist/includes/dbcon.php): failed to open stream: No such file or directory in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:21:35 UTC] PHP Warning:  include(): Failed opening '../dist/includes/dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 93
+[05-Oct-2022 07:21:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
+[05-Oct-2022 07:21:35 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home3/tlpkcom/public_html/royal_wms/pages/reports/inboundrpt.php on line 96
